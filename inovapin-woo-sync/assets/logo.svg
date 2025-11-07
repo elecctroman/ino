@@ -1,0 +1,5 @@
+<svg width="120" height="32" viewBox="0 0 120 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="120" height="32" rx="16" fill="#7B61FF"/>
+  <path d="M23.5 9C19.3579 9 16 12.3579 16 16.5C16 20.6421 19.3579 24 23.5 24C27.6421 24 31 20.6421 31 16.5C31 12.3579 27.6421 9 23.5 9ZM23.5 21.3333C21.0963 21.3333 19.1667 19.4037 19.1667 17C19.1667 14.5963 21.0963 12.6667 23.5 12.6667C25.9037 12.6667 27.8333 14.5963 27.8333 17C27.8333 19.4037 25.9037 21.3333 23.5 21.3333Z" fill="white"/>
+  <text x="42" y="21" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="600">Inovapin Sync</text>
+</svg>

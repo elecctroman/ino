@@ -1,0 +1,3 @@
+# Ignore packaged ZIP artifacts
+inovapin-woo-sync.zip
+*.zip
